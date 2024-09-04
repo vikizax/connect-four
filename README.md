@@ -5,4 +5,4 @@ Created using React/Typescript
 
 ## Live Demo
 
-[Connect Four](https://google.com)
+[Connect Four](https://connect-four-ochre-mu.vercel.app/)
